@@ -6,3 +6,4 @@ data/*.duckdb
 data/generated/
 *.pyc
 .DS_Store
+.github-cli/
