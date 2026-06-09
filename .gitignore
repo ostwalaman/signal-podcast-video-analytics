@@ -1,0 +1,8 @@
+__pycache__/
+.pytest_cache/
+.streamlit/secrets.toml
+!.streamlit/secrets.toml.example
+data/*.duckdb
+data/generated/
+*.pyc
+.DS_Store
